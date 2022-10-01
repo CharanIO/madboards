@@ -1,0 +1,27 @@
+{
+  "name": "madboards",
+  "version": "1.0.0",
+  "description": "where learners meet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teccharan/madboards.git"
+  },
+  "keywords": [],
+  "author": "charan k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teccharan/madboards/issues"
+  },
+  "homepage": "https://github.com/teccharan/madboards#readme",
+  "devDependencies": {
+    "electron": "^21.0.1"
+  },
+  "dependencies": {
+    "puppeteer": "^18.0.5"
+  }
+}
